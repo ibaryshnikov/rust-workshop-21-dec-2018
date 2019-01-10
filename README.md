@@ -1,5 +1,5 @@
 ## Rust + WebAssembly workshop
-Simple math and interacting with DOM examples
+Simple math and DOM examples
 
 ### Building
 ```bash
